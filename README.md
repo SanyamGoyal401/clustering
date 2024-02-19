@@ -34,4 +34,4 @@ pip install ucimlrepo
 ## Results
 
 The clustering comparison results can be found below.
-<img src=""/>
+<img src="https://github.com/SanyamGoyal401/clustering/blob/main/results.png"/>
